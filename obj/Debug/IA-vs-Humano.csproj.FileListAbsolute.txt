@@ -1,0 +1,7 @@
+C:\Users\Miguel\Desktop\IA-vs-Humano\obj\Debug\IA-vs-Humano.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\IA-vs-Humano\obj\Debug\IA-vs-Humano.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\IA-vs-Humano\bin\Debug\IA-vs-Humano.exe.config
+C:\Users\Miguel\Desktop\IA-vs-Humano\bin\Debug\IA-vs-Humano.exe
+C:\Users\Miguel\Desktop\IA-vs-Humano\bin\Debug\IA-vs-Humano.pdb
+C:\Users\Miguel\Desktop\IA-vs-Humano\obj\Debug\IA-vs-Humano.exe
+C:\Users\Miguel\Desktop\IA-vs-Humano\obj\Debug\IA-vs-Humano.pdb
